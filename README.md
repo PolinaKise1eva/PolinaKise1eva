@@ -1,4 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there" alt="Typing SVG" /></a>
+## About me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)]()
 <!--
 **PolinaKise1eva/PolinaKise1eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
