@@ -5,6 +5,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#">
 </div>
-[![Codewars](https://codewars-stats-ignacio.vercel.app/?username=PolinaKise1eva)](https://www.codewars.com/users/PolinaKise1eva)
+![Codewars](https://github.r2v.ch/codewars?user=PolinaKise1eva&name=true&top_languages=true)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/PolinaKise1eva)](https://leetcode.com/PolinaKise1eva)
