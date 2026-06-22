@@ -7,4 +7,3 @@
 </div>
 
 ![Codewars](https://www.codewars.com/users/PolinaKise1eva/badges/large)
-
