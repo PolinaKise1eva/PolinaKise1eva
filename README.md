@@ -6,3 +6,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#">
 </div>
 ![Codewars](https://www.codewars.com/users/PolinaKise1eva/badges/large)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/PolinaKise1eva)](https://leetcode.com/PolinaKise1eva)
