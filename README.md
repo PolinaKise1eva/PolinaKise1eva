@@ -5,7 +5,29 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#">
 </div>
-### Codewars
-<img src="https://github.r2v.ch/codewars?user=PolinaKise1eva&name=true&top_languages=true" alt="Codewars Stats" />
-### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/PolinaKise1eva)](https://leetcode.com/PolinaKise1eva)
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Codewars</h3>
+        <img src="https://github.r2v.ch/codewars?user=PolinaKise1eva&name=true&top_languages=true&theme=dark&v=2" alt="Codewars Stats" />
+      </td>
+      <td align="center">
+        <h3>LeetCode</h3>
+        <a href="https://leetcode.com/PolinaKise1eva">
+          <img src="https://leetcard.jacoblin.cool/PolinaKise1eva?theme=dark&font=Noto%20Sans" alt="LeetCode Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/PolinaKise1eva" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/PolinaKise1eva" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
